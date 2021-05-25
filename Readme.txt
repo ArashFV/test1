@@ -1,5 +1,5 @@
 Coded By Arsalan Emamjomehkashan
-Version 1.0 Beta
+Version 1.0 Beta XX
 You can use this code anywhere you want
 Make sure your php file is plain php not php-html
 When you want to enter directories enter it like this "Test" not "/Test" nor "/Test/"
